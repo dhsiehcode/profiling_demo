@@ -1,0 +1,4 @@
+/home/dhsiehcode/profiling/demo/build/CMakeFiles/DemoExe.dir
+/home/dhsiehcode/profiling/demo/build/CMakeFiles/scrub.dir
+/home/dhsiehcode/profiling/demo/build/CMakeFiles/edit_cache.dir
+/home/dhsiehcode/profiling/demo/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O0 -Wall -fprofile-arcs -ftest-coverage CMakeFiles/DemoExe.dir/stack.o CMakeFiles/DemoExe.dir/stack_test.o -o DemoExe
